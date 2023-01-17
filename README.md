@@ -1,4 +1,4 @@
-<img src="https://github.com/SameerSondhi/SameerSondhi/blob/main/SAMEER%20SONDHI%20FULL%20STACK%20SOFTWARE%20DEVELOPER.png">
+
 
 <!--
 **SameerSondhi/SameerSondhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
