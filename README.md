@@ -69,13 +69,6 @@
 </a>  
 </div>  
 
-## GitHub Stats
-<div>
-<img align="right" src="https://github-readme-stats.vercel.app/api/?username=sameersondhi&theme=merko" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameersondhi&theme=merko" />
-</div
-<br/>  
-
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
