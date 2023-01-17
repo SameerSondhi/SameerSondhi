@@ -69,9 +69,12 @@
 </a>  
 </div>  
 
+## GitHub Stats
+<div>
+<img align="right" src="https://github-readme-stats.vercel.app/api/?username=sameersondhi&theme=merko" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameersondhi&theme=merko" />
+</div
 <br/>  
-<!-- ## Credits
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
