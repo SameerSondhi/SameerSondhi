@@ -18,17 +18,13 @@ I’m a full-stack software developer and I enjoy creating responsive client-fac
 <br/>  
 
 
-## Rapidfire  
+## More About Me 
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently learning at Coding Dojo, and taking advantage of their advanced curriculum to further expand my skill set.  
   
 
-- 🔭 I am currently learning about web sockets in order to develop a live chat feature for one of my projects  
-
-
-</td><td valign="top" width="50%">
-
+- 🔭 I am also learning about web sockets in order to develop a live chat feature for one of my projects  
 
 
 </td></tr></table>  
