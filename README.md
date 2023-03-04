@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a full stack software developer with knowledge of Python, Java and JavaScript
+I recently collaborated on an eCommerce project that was built using a combination of React and Java (using the Spring IDE)!
 
 
 ## 🌐 Socials:
