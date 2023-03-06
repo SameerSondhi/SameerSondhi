@@ -1,5 +1,5 @@
 # 💫 About Me:
-I recently collaborated on an eCommerce project that was built using a combination of React and Java (using the Spring IDE)!
+I recently collaborated on an eCommerce project that was built using a combination of React and Java (using Spring Tool Suite 4)!
 
 
 ## 🌐 Socials:
