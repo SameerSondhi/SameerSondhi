@@ -1,5 +1,5 @@
 # 💫 About Me:
-I recently collaborated on an eCommerce project that was built using a combination of React and Java (using Spring Tool Suite 4)!
+I'm learning how to use Three.js and add 3D components to my websites
 
 
 ## 🌐 Socials:
