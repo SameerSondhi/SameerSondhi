@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm learning how to use Three.js and add 3D components to my websites
+I'm learning how to use ThreeJS and add 3D components to my websites
 
 
 ## 🌐 Socials:
