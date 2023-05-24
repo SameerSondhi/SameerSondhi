@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Full Stack Software Developer currently focusing on the MERN stack
+Currently focusing on the MERN stack and placing an emphasis on making my projects mobile-responsive
 
 
 ## 🌐 Socials:
