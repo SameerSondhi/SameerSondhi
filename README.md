@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently focusing on the MERN stack and placing an emphasis on making my projects mobile-responsive
+Full Stack Developer currently focusing on business logic (back-end) solutions using Java & Python, and database interaction with both MongoDB and SQL databases.
 
 
 ## 🌐 Socials:
