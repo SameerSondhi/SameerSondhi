@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Developer currently focusing on business logic (back-end) solutions using Java & Python, and database interaction with both MongoDB and SQL databases.
+Full Stack Developer currently in the Bay Area
 
 
 ## 🌐 Socials:
