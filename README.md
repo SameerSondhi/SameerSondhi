@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im a full stack software developer currently focusing on writing business logic (back end code) and creating REST APIs using Java & Python. I currently volunteer as a Web Designer/Developer for Catalyze Silicon Valley, a non-profit connected with Code for San Jose.
+Im a full stack software developer currently living in the Bay Area. 
 
 
 ## 🌐 Socials:
