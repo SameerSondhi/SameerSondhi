@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im a full stack software developer currently focusing on creating business logic (back end code) using Java and interacting with databases such as MongoDB and MySQL. My go-to for front end is creating reusable components in React, and customizing with Bootstrap and Material UI. I currently volunteer as a Web Designer/Developer for Catalyze Silicon Valley, a non-profit connected with Code for San Jose.
+Im a full stack software developer currently focusing on writing business logic (back end code) and creating REST APIs using Java & Python. I currently volunteer as a Web Designer/Developer for Catalyze Silicon Valley, a non-profit connected with Code for San Jose.
 
 
 ## 🌐 Socials:
