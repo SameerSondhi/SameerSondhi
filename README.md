@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a full stack software developer currently living in the Bay Area. 
+I'm a full stack software developer with a focus on writing business logic (back end code) using Java, Python and NodeJS. 
 
 
 ## 🌐 Socials:
