@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a full stack software developer with a focus on writing business logic (back end code) using Java, Python and NodeJS. 
+I'm a full stack software developer with experience in creating full stack, full CRUD web applications. 
 
 
 ## 🌐 Socials:
