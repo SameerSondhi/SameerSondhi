@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a full stack software developer with experience in creating full stack, full CRUD web applications. 
+I'm a full stack software developer with a focus on building applications using Java and the Spring framework. 
 
 
 ## 🌐 Socials:
