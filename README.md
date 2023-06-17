@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a full stack software developer with a focus on building applications using Java and the Spring framework. 
+I'm a full stack software developer focusing on writing back-end code in Java and Python, while using React and JavaScript to power my user interfaces. 
 
 
 ## 🌐 Socials:
