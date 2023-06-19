@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a full stack software developer focusing on building applications using Python & JavaScript. 
+I'm a full stack software developer focusing on building applications using Java & JavaScript. 
 
 
 ## 🌐 Socials:
