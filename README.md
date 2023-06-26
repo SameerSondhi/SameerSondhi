@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a full stack software developer focusing on building applications using JavaScript, React, Express, NodeJS and MongoDB. 
+I'm a full stack software developer focusing on building applications using JavaScript (MERN) and Python (Flask).
 
 
 ## 🌐 Socials:
