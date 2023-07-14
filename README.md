@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a full stack software developer focusing on building web applications using Java (Spring, MySQL) and JavaScript (MongoDB, Express, React, NodeJS). 
+I'm a full stack software developer focusing on building web applications using JavaScript (MongoDB, Express, React, NodeJS). 
 
 
 ## 🌐 Socials:
