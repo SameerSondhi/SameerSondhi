@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a full stack software developer focusing on building web applications and user interfaces using JavaScript and the MERN (MongoDB, Express, React, NodeJS) technology stack. 
+I'm a full stack software developer focusing on building web applications using Java, Python and JavaScript.
 
 
 ## 🌐 Socials:
