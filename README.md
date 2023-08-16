@@ -1,6 +1,8 @@
 # 💫 About Me:
 I'm a full stack software developer focusing on building web applications using Java, Python and JavaScript.
 
+I recently deployed a responsive recipe search UI called Epic Recipes on Vercel. View here: https://epic-recipes-2.vercel.app/
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer-sondhi) 
