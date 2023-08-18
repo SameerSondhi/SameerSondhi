@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm a full stack software developer focusing on building web applications using Java, Python and JavaScript.
 
-I recently deployed a responsive recipe search UI called Epic Recipes on Vercel. View here: https://epic-recipes-2.vercel.app/
+I recently deployed a responsive recipe search UI called Epic Recipes on Vercel. Any user can type in the search bar and view the results of their recipe search and explore each recipe in greater detail. View here: https://epic-recipes-2.vercel.app/
 
 
 ## 🌐 Socials:
