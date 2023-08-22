@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a software developer currently focused on building user-centric and engaging front end web applications using JavaScript, React and Material UI.
+I'm a full stack software developer currently focused on building web applications using JavaScript and Python.
 
 I recently deployed a responsive recipe search UI called Epic Recipes on Vercel. Any user can type in the search bar and view the results of their recipe search and explore each recipe in greater detail. View here: https://epic-recipes-2.vercel.app/
 
