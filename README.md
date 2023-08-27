@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a full stack software developer currently focused on building back-end web applications with JavaScript via Node.js, Python using the Flask framework and Java using the Spring framework.
+I'm a full stack software developer currently focused on building back-end web applications with JavaScript via Node.js and Python using the Flask & Django frameworks.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer-sondhi) 
