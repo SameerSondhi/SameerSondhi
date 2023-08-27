@@ -1,8 +1,5 @@
 # 💫 About Me:
-I'm a full stack software developer currently focused on building front-end web applications using JavaScript and React.
-
-I recently deployed a responsive recipe search UI called Epic Recipes on Vercel. Any user can type in the search bar and view the results of their recipe search and explore each recipe in greater detail. View here: https://epic-recipes-2.vercel.app/
-
+I'm a full stack software developer currently focused on building back-end web applications with JavaScript via Node.js, Python using the Flask framework and Java using the Spring framework.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer-sondhi) 
