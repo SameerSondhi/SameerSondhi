@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a full stack software developer with knowledge and application of Python, JavaScript & Java.
+I'm a full stack software developer focusing on building applications using Java and JavaScript. 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer-sondhi) 
 
