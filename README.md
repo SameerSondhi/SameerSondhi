@@ -1,7 +1,7 @@
 # 💫 About Me:
-I'm a full stack software developer with knowledge of Python, JavaScript & Java. I am currently focusing on front end web development.
+I'm a full stack software developer with knowledge of Python, JavaScript & Java. I am currently focusing on learning the Django framework.
 
-Here is a link to my personal web development portfolio website: https://sameer-sondhi.vercel.app/
+Here is a link to my personal front end web development portfolio website: https://sameer-sondhi.vercel.app/
 
 
 ## 🌐 Socials:
