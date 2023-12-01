@@ -3,6 +3,7 @@ I'm a full stack software developer with knowledge of Python, JavaScript & Java.
 
 Here is a link to my personal front end web development portfolio website: https://sameer-sondhi.vercel.app/
 
+And here is a link to a team project built with the WordPress platform: https://www.pacificcoasttrailruns.com/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer-sondhi) 
