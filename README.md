@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm a full stack software developer with knowledge of Python, JavaScript & Java. Currently learning the Swift programming language.
+I'm a full stack software developer with knowledge of Python, JavaScript & Java. 
+
+I'm currently learning Swift and iOS app development.
 
 Here is a link to my personal front end web development portfolio website: https://sameer-sondhi.vercel.app/
 
