@@ -1,8 +1,6 @@
 # 💫 About Me:
 I'm a full stack software developer with knowledge of Python, JavaScript & Java. 
 
-I'm currently learning Swift and iOS app development.
-
 Here is a link to my personal front end web development portfolio website: https://sameer-sondhi.vercel.app/
 
 And here is a link to a team project built with the WordPress platform: https://www.pacificcoasttrailruns.com/
