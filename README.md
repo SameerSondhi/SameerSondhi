@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a full stack software developer with knowledge of Python & JavaScript.
+I'm a full stack software developer with knowledge of Python & JavaScript
 
 Here is a link to my personal front end web development portfolio website: https://sameer-sondhi.vercel.app/
 
