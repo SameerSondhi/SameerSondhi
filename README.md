@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a front end software developer with expertise in ReactJS and NextJS.
+I'm a software developer with expertise in ReactJS and NextJS.
 
 Here is a link to my personal front end web development portfolio website: https://sameer-sondhi.vercel.app/
 
