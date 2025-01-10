@@ -1,9 +1,17 @@
-# 💫 About Me:
-I'm a software developer with expertise in ReactJS and NextJS.
+👋 Hi, I'm Sameer!  
+I'm an aspiring backend engineer specializing in **C#**, **ASP.NET**, and **Azure**. Passionate about building scalable, secure, and efficient enterprise solutions, I’m on a mission to achieve Microsoft MVP status through continuous learning, community engagement, and impactful contributions.
 
-Here is a link to my personal front end web development portfolio website: https://sameer-sondhi.vercel.app/
+🔍 Currently Exploring:
+- Real-time APIs with SignalR
+- Cloud-native applications using Azure
+- Enterprise-grade authentication and authorization systems
 
-And here is a link to a team project built using WordPress: https://www.pacificcoasttrailruns.com/
+🚀 Projects in Progress:
+- IoT Aggregator API (Real-time metrics for parking management)
+- Ultimate Auth API (Secure authentication for property management)
+
+💡 Fun Fact:
+I’m documenting my journey in a blog series titled *"Road to Microsoft MVP"*—join me on this adventure!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer-sondhi) 
