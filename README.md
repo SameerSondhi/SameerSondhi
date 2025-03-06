@@ -1,17 +1,18 @@
 👋 Hi, I'm Sameer!  
-I am a Full-Stack Developer specializing in React, TypeScript, and modern backend development with a passion for building intuitive, scalable, and user-focused applications. My journey into software development stems from a non-traditional background, allowing me to bring a unique perspective to problem-solving and innovation.
+I am a WordPress Developer specializing in custom theme & plugin development, API integrations, and performance optimization. With expertise in PHP, JavaScript, and WordPress architecture, I create scalable, high-performance WordPress solutions that enhance user experiences and improve site efficiency.
 
-Initially pursuing paths outside of technology, I transitioned into software development driven by a desire to create impactful and meaningful digital solutions. This shift enabled me to combine my analytical mindset with a passion for crafting engaging frontends and reliable backend systems.
+🔹 Why WordPress?
+My journey into web development started with a passion for building structured, intuitive digital experiences. Over time, I have honed my skills in custom WordPress development, optimizing websites for speed, SEO, and accessibility while integrating modern web technologies to extend WordPress beyond traditional CMS use.
 
-Over time, I have honed my skills by:
-	•	Developing full-stack applications that prioritize scalability and performance.
-	•	Leveraging tools like React, TailwindCSS, and Framer Motion to deliver dynamic and interactive user experiences.
-	•	Building RESTful APIs and integrating them with frontend frameworks for seamless user workflows.
-	•	Exploring cloud technologies like AWS and Azure to enhance application reliability and streamline deployment.
+💻 Technical Expertise:
+✔️ Custom WordPress Themes & Plugins – Advanced customization, CPTs, hooks, and filters.
+✔️ REST API & API Integrations – Fetching & modifying WP data via custom endpoints.
+✔️ Performance Optimization – Caching, image optimization, SEO improvements.
+✔️ Security & Accessibility – WCAG/ADA compliance, WordPress hardening.
+✔️ Modern Frontend Integration – React/Next.js for Headless WP & dynamic UI components.
 
-I actively document and share my learning journey through technical projects and community engagement, emphasizing continuous growth and staying ahead of modern development trends. I am deeply committed to mastering full-stack development, with a particular focus on React ecosystems and cloud-enabled architectures.
-
-My goals include building innovative SaaS tools, contributing to projects that solve real-world challenges, and positioning myself as a versatile developer who thrives on collaboration and learning. If you share my enthusiasm for modern web technologies, let’s connect—I’m always eager to discuss exciting opportunities, share knowledge, and grow together.
+🌍 Let’s Connect!
+I’m always open to discussing WordPress development, API integrations, and modern CMS solutions. If you’re looking for someone who can bridge CMS power with modern web technologies, let’s connect!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer-sondhi) 
