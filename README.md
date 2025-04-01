@@ -1,20 +1,21 @@
 👋 Hi, I’m Sameer!
 
-I am a Full-Stack Developer specializing in AI-powered web applications, API integrations, and scalable CMS solutions. My expertise spans WordPress (custom themes, plugins, API extensions), modern frontend frameworks (React.js, Next.js), and backend technologies (FastAPI, Node.js, Python, TypeScript). Whether it’s extending WordPress beyond a traditional CMS or developing AI-driven SaaS applications, I build solutions that optimize performance, scalability, and user experience.
+🚀 I'm a product-minded SaaS builder and full stack developer focused on shipping AI-powered platforms that solve real-world GTM and growth challenges. I blend software engineering with product strategy to launch tools that drive user acquisition, automate workflows, and deliver measurable business value.
 
-🔹 Why Both WordPress & AI-Powered Development?
-My journey into web development started with a passion for building structured, intuitive digital experiences. Over time, I expanded my skill set to include AI integrations, cloud-based APIs, and full-stack SaaS development, enabling me to work on both CMS-powered platforms and AI-driven applications.
+💡 Currently building StackPilot — an AI GTM orchestration platform with real-time lead enrichment, AI-powered messaging, activity tracking, and role-based dashboards. Built with React, Supabase, Node.js, and integrated with Clearbit and Together AI.
 
-💻 Technical Expertise:
-✔️ AI-Powered APIs & SaaS Development – FastAPI, OpenAI API, AI automation.
-✔️ Custom WordPress Solutions – Advanced themes, plugins, CPTs, hooks, filters.
-✔️ API Integrations – RESTful & GraphQL APIs, third-party services, authentication.
-✔️ Performance Optimization – Caching, speed enhancements, SEO, accessibility (WCAG/ADA).
-✔️ Modern Frontend Engineering – React.js, Next.js, Redux, WordPress headless architecture.
-✔️ Cloud & DevOps – AWS (EC2, S3, Lambda), Docker, GitHub Actions for CI/CD.
+🔧 What I bring to the table:
+• Product Development & Ownership – Roadmapping, MVP design, user feedback loops, and agile iteration
+• Full Stack Engineering – React, Node.js, Supabase/Firebase, REST APIs, serverless architecture
+• AI & GTM Systems – Together AI (Mixtral), Clearbit, CRM workflows, lead scoring, webhook automation
+• Builder Mentality – Rapid prototyping, zero-to-one execution, customer-focused problem solving
 
-🌍 Let’s Connect!
-I’m always open to discussing AI-powered full-stack development, WordPress engineering, and API-driven SaaS solutions. If you’re looking for someone who can bridge CMS capabilities with modern AI-enhanced web applications, let’s connect!
+I’m passionate about building SaaS products that bridge technical execution and business growth, and I’m open to opportunities across:
+• Associate Product Management
+• Full Stack Product Engineering
+• GTM Engineering & AI SaaS Development
+
+📬 Let’s connect if you’re building the future of software, AI, or GTM tech!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer-sondhi) 
