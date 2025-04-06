@@ -1,21 +1,10 @@
 👋 Hi, I’m Sameer!
 
-🚀 I'm a product-minded SaaS builder and full stack developer focused on shipping AI-powered platforms that solve real-world GTM and growth challenges. I blend software engineering with product strategy to launch tools that drive user acquisition, automate workflows, and deliver measurable business value.
+I’m a full-stack developer with a strong foundation in building responsive, intuitive web applications — from dynamic dashboards to internal tools and customer-facing platforms. I enjoy turning complex workflows into seamless, user-friendly experiences using tools like React, Next.js, Tailwind, and Node.
 
-💡 Currently building StackPilot — an AI GTM orchestration platform with real-time lead enrichment, AI-powered messaging, activity tracking, and role-based dashboards. Built with React, Supabase, Node.js, and integrated with Clearbit and Together AI.
+Over the past few years, I’ve worked across the stack to support small businesses, startups, and solo founders — delivering everything from content-driven sites to AI-enhanced platforms that automate and enrich user workflows. My recent interests include building GTM platforms, integrating AI models into practical tools, exploring mobile development with React Native & Flutter, and building for the cloud with Supabase and serverless backends.
 
-🔧 What I bring to the table:
-• Product Development & Ownership – Roadmapping, MVP design, user feedback loops, and agile iteration
-• Full Stack Engineering – React, Node.js, Supabase/Firebase, REST APIs, serverless architecture
-• AI & GTM Systems – Together AI (Mixtral), Clearbit, CRM workflows, lead scoring, webhook automation
-• Builder Mentality – Rapid prototyping, zero-to-one execution, customer-focused problem solving
-
-I’m passionate about building SaaS products that bridge technical execution and business growth, and I’m open to opportunities across:
-• Associate Product Management
-• Full Stack Product Engineering
-• GTM Engineering & AI SaaS Development
-
-📬 Let’s connect if you’re building the future of software, AI, or GTM tech!
+Whether it’s shipping polished frontends, building robust APIs, or exploring new ways to simplify user experiences with AI, I’m always focused on creating meaningful, usable software that scales with real needs.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer-sondhi) 
