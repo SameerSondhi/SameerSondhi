@@ -1,10 +1,10 @@
 👋 Hi, I’m Sameer!
 
-I’m a full-stack developer with a strong foundation in building responsive, intuitive web applications — from dynamic dashboards to internal tools and customer-facing platforms. I enjoy turning complex workflows into seamless, user-friendly experiences using tools like React, Next.js, Tailwind, and Node.
+I’m a full-stack developer passionate about building responsive, scalable, and user-friendly applications — from polished frontends to robust backend services. My core stack includes React, Next.js, FastAPI, and Golang, with experience designing APIs, integrating third-party services, and deploying cloud-ready solutions.
 
-Over the past few years, I’ve worked across the stack to support small businesses, startups, and solo founders — delivering everything from content-driven sites to AI-enhanced platforms that automate and enrich user workflows. My recent interests include building GTM platforms, integrating AI models into practical tools, exploring mobile development with React Native & Flutter, and building for the cloud with Supabase and serverless backends.
+I’ve delivered projects for startups, small businesses, and founders, including AI-powered productivity platforms, multi-tenant SaaS tools, and compliance-conscious applications. I enjoy translating complex workflows into intuitive, efficient experiences — whether for internal teams or customer-facing platforms.
 
-Whether it’s shipping polished frontends, building robust APIs, or exploring new ways to simplify user experiences with AI, I’m always focused on creating meaningful, usable software that scales with real needs.
+Recently, I’ve been exploring Golang for high-performance backend services, integrating LLMs into practical tools, and building cross-platform mobile apps with React Native. My focus is on shipping scalable software that’s maintainable, secure, and genuinely useful.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer-sondhi) 
