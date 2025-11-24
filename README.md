@@ -1,10 +1,21 @@
-👋 Hi, I’m Sameer!
+👋 Hi, I’m Sameer — a front-end developer who loves crafting clean, accessible, and intuitive user experiences.
 
-I’m a full-stack developer passionate about building responsive, scalable, and user-friendly applications — from polished frontends to robust backend services. My core stack includes React, Next.js, FastAPI, and Golang, with experience designing APIs, integrating third-party services, and deploying cloud-ready solutions.
+I specialize in building responsive, UI-driven applications using React, JavaScript (ES6+), HTML/CSS, and modern front-end patterns. My work focuses on turning ideas into fast, polished interfaces — with attention to detail, accessibility, and smooth interaction design.
 
-I’ve delivered projects for startups, small businesses, and founders, including AI-powered productivity platforms, multi-tenant SaaS tools, and compliance-conscious applications. I enjoy translating complex workflows into intuitive, efficient experiences — whether for internal teams or customer-facing platforms.
+I’ve built and shipped interfaces for startups, founders, and internal teams, including:
+	•	responsive marketing sites
+	•	API-driven dashboards and tools
+	•	React-based SPA applications
+	•	internal workflow systems
+	•	multi-page product experiences
 
-Recently, I’ve been exploring Golang for high-performance backend services, integrating LLMs into practical tools, and building cross-platform mobile apps with React Native. My focus is on shipping scalable software that’s maintainable, secure, and genuinely useful.
+Across all projects, I focus on clarity, usability, and accuracy, making sure every UI feels intuitive and every interaction works the way users expect.
+
+While front-end is my craft, I also bring experience across the stack — from integrating REST APIs to building lightweight backend services in FastAPI, Node.js, and Go, allowing me to collaborate effectively with cross-functional teams and understand end-to-end product workflows.
+
+Recently, I’ve been deepening my skills in web accessibility (WCAG), UI testing, and React performance patterns, while exploring high-performance backend development in Go.
+
+I’m constantly learning, always shipping, and excited to build user experiences that feel fast, thoughtful, and modern.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer-sondhi) 
