@@ -1,4 +1,4 @@
-About Me
+# About Me
 
 Hi, I’m Sameer. I'm a modern Next.js Developer + AI Integrations Specialist with a strong creative edge.
 
@@ -10,7 +10,7 @@ I also run Tiramisu.dev, my personal studio for expressive, design-forward web e
 
 ⸻
 
-What I Build
+# What I Build
 
 1. Premium Landing Pages (High-End UI + Motion)
 
@@ -45,7 +45,7 @@ This is the fastest-growing demand on Upwork and I specialize in it.
 
 ⸻
 
-Why Clients Choose Me
+# Why Clients Choose Me
 
 • Strong design & dev abilities in one person
 • Clear communication & fast turnaround
@@ -56,7 +56,7 @@ Why Clients Choose Me
 
 ⸻
 
-Tech Stack
+# Tech Stack
 
 Frontend: Next.js, React, TailwindCSS, Framer Motion, GSAP
 AI: OpenAI, TogetherAI, Groq, LangChain, Vercel AI SDK
@@ -65,7 +65,7 @@ Tools: Figma, Webflow, Vercel, Supabase, Neon
 
 ⸻
 
-Perfect For
+# Perfect For
 
 • SaaS founders
 • Indie hackers
