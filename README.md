@@ -1,31 +1,84 @@
-👋 Hi, I’m Sameer — a front-end developer who loves crafting clean, accessible, and intuitive user experiences.
+About Me
 
-I specialize in building responsive, UI-driven applications using React, JavaScript (ES6+), HTML/CSS, and modern front-end patterns. My work focuses on turning ideas into fast, polished interfaces — with attention to detail, accessibility, and smooth interaction design.
+Hi, I’m Sameer. I'm a modern Next.js Developer + AI Integrations Specialist with a strong creative edge.
 
-I’ve built and shipped interfaces for startups, founders, and internal teams, including:
-	•	responsive marketing sites
-	•	API-driven dashboards and tools
-	•	React-based SPA applications
-	•	internal workflow systems
-	•	multi-page product experiences
+I build cutting edge, interactive websites and AI-powered web apps for founders, startups, and product teams.
 
-Across all projects, I focus on clarity, usability, and accuracy, making sure every UI feels intuitive and every interaction works the way users expect.
+Clean UI, smooth motion, fast performance, and thoughtful engineering are my trademarks.
 
-While front-end is my craft, I also bring experience across the stack — from integrating REST APIs to building lightweight backend services in FastAPI, Node.js, and Go, allowing me to collaborate effectively with cross-functional teams and understand end-to-end product workflows.
+I also run Tiramisu.dev, my personal studio for expressive, design-forward web experiences.
 
-Recently, I’ve been deepening my skills in web accessibility (WCAG), UI testing, and React performance patterns, while exploring high-performance backend development in Go.
+⸻
 
-I’m constantly learning, always shipping, and excited to build user experiences that feel fast, thoughtful, and modern.
+What I Build
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer-sondhi) 
+1. Premium Landing Pages (High-End UI + Motion)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SameerSondhi&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SameerSondhi&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SameerSondhi&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+✔ Next.js + Tailwind
+✔ Smooth animations (Framer Motion / GSAP)
+✔ Marketing sites for SaaS / start-ups
+✔ Figma → pixel-perfect websites
+✔ Webflow → Next.js rebuilds
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+2. AI-Powered Tools & Apps
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I integrate LLMs (OpenAI, TogetherAI, Groq) directly into modern Next.js apps:
+
+✔ AI chatbots
+✔ Document Q&A systems
+✔ Knowledge base assistants
+✔ Workflow automations
+✔ LLM-powered dashboards
+✔ AI features for SaaS MVPs
+
+This is the fastest-growing demand on Upwork and I specialize in it.
+
+3. Full-Stack Next.js Apps (API Routes + SQL)
+
+✔ Authentication
+✔ CRUD dashboards
+✔ Client portals
+✔ Admin tools
+✔ SaaS starter builds
+✔ PostgreSQL + Prisma
+✔ Supabase / Neon
+
+⸻
+
+Why Clients Choose Me
+
+• Strong design & dev abilities in one person
+• Clear communication & fast turnaround
+• Modern stack (Next.js, Tailwind, TypeScript)
+• AI expertise (OpenAI, TogetherAI, Vercel AI SDK)
+• Founder-friendly approach, I think in product
+• Clean, modern, high-quality builds
+
+⸻
+
+Tech Stack
+
+Frontend: Next.js, React, TailwindCSS, Framer Motion, GSAP
+AI: OpenAI, TogetherAI, Groq, LangChain, Vercel AI SDK
+Backend: Next.js API Routes, Node, Prisma, PostgreSQL
+Tools: Figma, Webflow, Vercel, Supabase, Neon
+
+⸻
+
+Perfect For
+
+• SaaS founders
+• Indie hackers
+• Startups needing fast MVPs
+• Internal tools / dashboards
+• AI-powered features
+• Interactive, modern landing pages
+
+⸻
+
+Let’s build something thoughtful, expressive, and powerful — with speed and intention.
+
+Send me a message and I can start today.
+
+— Sameer
+Next.js + AI Developer | Founder, Tiramisu.dev
