@@ -1,6 +1,6 @@
 # About Me
 
-Hi, I’m Sameer — a full-stack developer focused on building and debugging data-driven web applications.
+Hi, I’m Sameer! I'm a full-stack developer focused on building and debugging data-driven web applications.
 
 I come from a hybrid background in IT support and software development, where I’ve worked on diagnosing API, authentication, and integration issues, as well as building full-stack systems from scratch. I’m especially interested in how data flows through systems — from ingestion and transformation to user-facing features.
 
@@ -45,5 +45,3 @@ Tech Stack
 What I’m Looking For
 
 Opportunities to contribute to real systems, learn from experienced engineers, and build software that is reliable, scalable, and impactful.
-— Sameer
-Next.js + AI Developer | Founder, Tiramisu.dev
