@@ -1,84 +1,49 @@
 # About Me
 
-Hi, I’m Sameer. I'm a modern Next.js Developer + AI Integrations Specialist with a strong creative edge.
+Hi, I’m Sameer — a full-stack developer focused on building and debugging data-driven web applications.
 
-I build cutting edge, interactive websites and AI-powered web apps for founders, startups, and product teams.
+I come from a hybrid background in IT support and software development, where I’ve worked on diagnosing API, authentication, and integration issues, as well as building full-stack systems from scratch. I’m especially interested in how data flows through systems — from ingestion and transformation to user-facing features.
 
-Clean UI, smooth motion, fast performance, and thoughtful engineering are my trademarks.
-
-I also run Tiramisu.dev, my personal studio for expressive, design-forward web experiences.
+Recently, I’ve been building projects that combine APIs, databases, and frontend interfaces, with a focus on reliability, clarity, and real-world usability.
 
 ⸻
 
-# What I Build
-
-1. Premium Landing Pages (High-End UI + Motion)
-
-✔ Next.js + Tailwind
-✔ Smooth animations (Framer Motion / GSAP)
-✔ Marketing sites for SaaS / start-ups
-✔ Figma → pixel-perfect websites
-✔ Webflow → Next.js rebuilds
-
-2. AI-Powered Tools & Apps
-
-I integrate LLMs (OpenAI, TogetherAI, Groq) directly into modern Next.js apps:
-
-✔ AI chatbots
-✔ Document Q&A systems
-✔ Knowledge base assistants
-✔ Workflow automations
-✔ LLM-powered dashboards
-✔ AI features for SaaS MVPs
-
-This is the fastest-growing demand on Upwork and I specialize in it.
-
-3. Full-Stack Next.js Apps (API Routes + SQL)
-
-✔ Authentication
-✔ CRUD dashboards
-✔ Client portals
-✔ Admin tools
-✔ SaaS starter builds
-✔ PostgreSQL + Prisma
-✔ Supabase / Neon
+What I’m Working On
+	•	Building full-stack applications with React, Node.js, and SQL
+	•	Designing simple data pipelines and API integrations
+	•	Practicing data structures & algorithms
+	•	Exploring AI-assisted workflows and LLM integrations in production apps
 
 ⸻
 
-# Why Clients Choose Me
+Selected Project
 
-• Strong design & dev abilities in one person
-• Clear communication & fast turnaround
-• Modern stack (Next.js, Tailwind, TypeScript)
-• AI expertise (OpenAI, TogetherAI, Vercel AI SDK)
-• Founder-friendly approach, I think in product
-• Clean, modern, high-quality builds
-
-⸻
-
-# Tech Stack
-
-Frontend: Next.js, React, TailwindCSS, Framer Motion, GSAP
-AI: OpenAI, TogetherAI, Groq, LangChain, Vercel AI SDK
-Backend: Next.js API Routes, Node, Prisma, PostgreSQL
-Tools: Figma, Webflow, Vercel, Supabase, Neon
+StackPilot
+A full-stack application that automates lead processing and enrichment workflows.
+	•	Ingests and normalizes data from external APIs
+	•	Stores structured data in SQL (Supabase/PostgreSQL)
+	•	Exposes data through REST APIs and dashboards
+	•	Focused on handling real-world API inconsistencies and debugging integration issues
 
 ⸻
 
-# Perfect For
-
-• SaaS founders
-• Indie hackers
-• Startups needing fast MVPs
-• Internal tools / dashboards
-• AI-powered features
-• Interactive, modern landing pages
+Background
+	•	IT Support Analyst @ Verily (Alphabet) — debugging APIs, auth (OAuth/SSO), and system integrations
+	•	Experience working across macOS, Windows, and Linux environments
+	•	Comfortable reading logs, tracing requests, and collaborating with engineering teams
 
 ⸻
 
-Let’s build something thoughtful, expressive, and powerful — with speed and intention.
+Tech Stack
+	•	Frontend: React, Next.js, TypeScript, Tailwind
+	•	Backend: Node.js (Express), REST APIs
+	•	Data: SQL (PostgreSQL), Supabase
+	•	Other: Git, debugging, API integration, basic testing
 
-Send me a message and I can start today.
+⸻
 
+What I’m Looking For
+
+Opportunities to contribute to real systems, learn from experienced engineers, and build software that is reliable, scalable, and impactful.
 — Sameer
 Next.js + AI Developer | Founder, Tiramisu.dev
